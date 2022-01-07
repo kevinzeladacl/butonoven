@@ -15,9 +15,9 @@ from config import token
 bot = commands.Bot(command_prefix='!noven ', description="This is a KZ Team bot")
 
 plants = [
-        { "pk":"1", "number":":one:", "name": "elcale","difficulty":"50" },
-        { "pk":"2", "number":":two:", "name": "mogentum","difficulty":"50" },
-        { "pk":"3", "number":":three:", "name": "nainiie","difficulty":"50" },
+        { "pk":"1", "number":":one:", "name": "elcale","difficulty":"80" },
+        { "pk":"2", "number":":two:", "name": "mogentum","difficulty":"70" },
+        { "pk":"3", "number":":three:", "name": "nainiie","difficulty":"60" },
         { "pk":"4", "number":":four:", "name": "edlothiad","difficulty":"50" },
     ]
 
